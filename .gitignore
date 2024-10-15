@@ -1,0 +1,6 @@
+# These are files that, when created, will be ignored by Git.
+# So any content you place in them will never be published to the repository!
+
+# Ignore any .env files, in any folders in the project.
+**/.env*
+
